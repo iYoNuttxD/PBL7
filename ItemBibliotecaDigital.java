@@ -1,5 +1,3 @@
-package PBL7;
-
 public abstract class ItemBibliotecaDigital {
     private String titulo;
     private String autor;
