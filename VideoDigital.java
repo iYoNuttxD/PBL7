@@ -1,6 +1,5 @@
-package PBL7;
-import PBL7.Baixavel;
-import PBL7.ItemBibliotecaDigital;
+import Baixavel;
+import ItemBibliotecaDigital;
 
 public class VideoDigital extends ItemBibliotecaDigital implements Baixavel, Visualizavel {
 
