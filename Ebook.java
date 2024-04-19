@@ -1,5 +1,3 @@
-package PBL7;
-
 public class Ebook extends ItemBibliotecaDigital implements Baixavel {
 
     private int numeroPaginas;
