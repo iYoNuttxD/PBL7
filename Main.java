@@ -1,8 +1,7 @@
-package PBL7;
-
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("Equipe: Daniel Ganz Musse, João Vitor de Souza Hernandes, " +
+                "Pedro Henrique Silva Cabral");
         Ebook ebook1 = new Ebook("O Senhor dos Anéis", "J.R.R. Tolkien", 1178, "EPUB");
         Ebook ebook2 = new Ebook("Java para Iniciantes", "Fulano de Tal", 450, "PDF");
         VideoDigital video1 = new VideoDigital("Introdução ao Python", "Beltrano de Tal",
